@@ -9,3 +9,4 @@ CSS:
 Added comments in the css  file to ensure describe functionality and impact on HTML file and browser. Reduced redundancies in the selectors. Deleted unnecessary class selectors. Got rid of repeating attributes. 
 
 
+URL: https://xleonard1.github.io/HW-1-Refactoring-2/
